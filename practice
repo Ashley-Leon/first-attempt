@@ -1,1 +1,5 @@
+print "Hello World"
+#typically the first program we write in a new language is "Hello World" 
+my variable= 32
+my variable= my variable +3
 
